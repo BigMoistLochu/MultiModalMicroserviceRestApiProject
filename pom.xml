@@ -18,6 +18,7 @@
     <modules>
         <module>CustomerMicroservice</module>
         <module>ProductMicroservice</module>
+        <module>FrontendMicroservice</module>
     </modules>
 
     <properties>
