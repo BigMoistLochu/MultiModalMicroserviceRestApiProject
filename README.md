@@ -41,14 +41,7 @@ Projekt składa się z kilku mikroserwisów zbudowanych przy użyciu Spring Boot
 1. Sklonuj repozytorium:
 
     ```sh
-    git clone https://github.com/yourusername/microservices-skill-assessment.git
-    cd microservices-skill-assessment
-    ```
-
-2. Zbuduj projekt za pomocą Mavena:
-
-    ```sh
-    mvn clean install
+    git clone ...
     ```
 
 ### Uruchamianie Projektu
